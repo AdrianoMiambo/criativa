@@ -211,7 +211,7 @@ body.boxed-wrapper {
     -webkit-appearance: none;
     border: none;
     outline: none !important;
-    background-color: var(--thm-primary);
+    background-color: #2b3990;
     color: var(--thm-base);
     font-size: 14px;
     font-weight: 700;
